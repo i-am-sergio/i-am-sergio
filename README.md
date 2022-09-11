@@ -10,9 +10,15 @@
 <code><img height="70" src="https://github.com/chandan-reddy-k/chandan-reddy-k/blob/master/assets/next.png"></code> &nbsp;&nbsp;
 <code><img height="75" src="https://github.com/chandan-reddy-k/chandan-reddy-k/blob/master/assets/react.png"></code> &nbsp;&nbsp;
 <code><img height="75" src="https://github.com/chandan-reddy-k/chandan-reddy-k/blob/master/assets/redux.png"></code> &nbsp;&nbsp;
-<code><img height="75" src="https://github.com/chandan-reddy-k/chandan-reddy-k/blob/master/assets/flutter.png"></code> &nbsp;&nbsp;
 <code><img height="75" src="https://github.com/chandan-reddy-k/chandan-reddy-k/blob/master/assets/graphql.png"></code> &nbsp;&nbsp;
-<code><img height="75" src="https://github.com/chandan-reddy-k/chandan-reddy-k/blob/master/assets/nodejs.png"></code>
+</p>
+<br/>
+<p align="center">
+<code><img height="75" src="https://github.com/chandan-reddy-k/chandan-reddy-k/blob/master/assets/git.png"></code> &nbsp;&nbsp;
+<code><img height="75" src="https://github.com/chandan-reddy-k/chandan-reddy-k/blob/master/assets/npm.png"></code> &nbsp;&nbsp;
+<code><img height="75" src="https://github.com/chandan-reddy-k/chandan-reddy-k/blob/master/assets/js.png"></code> &nbsp;&nbsp;
+<code><img height="75" src="https://github.com/chandan-reddy-k/chandan-reddy-k/blob/master/assets/html.png"></code> &nbsp;&nbsp;
+<code><img height="75" src="https://github.com/chandan-reddy-k/chandan-reddy-k/blob/master/assets/css.png"></code>
 </p>
 
 Here are some ideas to get you started:
