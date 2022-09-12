@@ -4,26 +4,47 @@
 **i-am-sergio/i-am-sergio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 <h2 align="center">
-  Here are some technologies I use at work:
+  FRONTEND:
 </h2>
 <p align="center">
-<code><img height="70" src="https://github.com/chandan-reddy-k/chandan-reddy-k/blob/master/assets/next.png"></code> &nbsp;&nbsp;
+<code><img height="75" src="https://github.com/chandan-reddy-k/chandan-reddy-k/blob/master/assets/html.png"></code> &nbsp;&nbsp;
+<code><img height="75" src="https://github.com/chandan-reddy-k/chandan-reddy-k/blob/master/assets/css.png"></code> &nbsp;&nbsp;
+<code><img height="75" src="https://github.com/chandan-reddy-k/chandan-reddy-k/blob/master/assets/js.png"></code> &nbsp;&nbsp;
 <code><img height="75" src="https://github.com/chandan-reddy-k/chandan-reddy-k/blob/master/assets/react.png"></code> &nbsp;&nbsp;
 <code><img height="75" src="https://github.com/chandan-reddy-k/chandan-reddy-k/blob/master/assets/redux.png"></code> &nbsp;&nbsp;
-<code><img height="75" src="https://github.com/chandan-reddy-k/chandan-reddy-k/blob/master/assets/graphql.png"></code> &nbsp;&nbsp;
 </p>
 <br/>
+
+<h2 align="center">
+  BACKEND:
+</h2>
 <p align="center">
+<code><img height="75" src="https://github.com/chandan-reddy-k/chandan-reddy-k/blob/master/assets/graphql.png"></code> &nbsp;&nbsp;
+<code><img height="70" src="https://github.com/chandan-reddy-k/chandan-reddy-k/blob/master/assets/next.png"></code> &nbsp;&nbsp;
 <code><img height="75" src="https://github.com/chandan-reddy-k/chandan-reddy-k/blob/master/assets/git.png"></code> &nbsp;&nbsp;
-<code><img height="75" src="https://github.com/chandan-reddy-k/chandan-reddy-k/blob/master/assets/npm.png"></code> &nbsp;&nbsp;
-<code><img height="75" src="https://github.com/chandan-reddy-k/chandan-reddy-k/blob/master/assets/js.png"></code> &nbsp;&nbsp;
-<code><img height="75" src="https://github.com/chandan-reddy-k/chandan-reddy-k/blob/master/assets/html.png"></code> &nbsp;&nbsp;
-<code><img height="75" src="https://github.com/chandan-reddy-k/chandan-reddy-k/blob/master/assets/css.png"></code>
+<code><img height="75" src="https://github.com/chandan-reddy-k/chandan-reddy-k/blob/master/assets/npm.png"></code>
+</p>
+
+<h2 align="center">
+  OTHERS:
+</h2>
+
+<p align="center">
+<code><img height="75" src="https://github.com/chandan-reddy-k/chandan-reddy-k/blob/master/assets/graphql.png"></code> &nbsp;&nbsp;
+<code><img height="70" src="https://github.com/chandan-reddy-k/chandan-reddy-k/blob/master/assets/next.png"></code> &nbsp;&nbsp;
+<code><img height="75" src="https://github.com/chandan-reddy-k/chandan-reddy-k/blob/master/assets/git.png"></code> &nbsp;&nbsp;
+<code><img height="75" src="https://github.com/chandan-reddy-k/chandan-reddy-k/blob/master/assets/npm.png"></code>
 </p>
 
 <p align="center">
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=i-am-sergio&show_icons=true&title_color=fff&icon_color=109eff&text_color=9f9f9f&bg_color=151515" alt="Chandan's Public Github Stats">
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=i-am-sergio&show_icons=true&title_color=fff&icon_color=109eff&text_color=9f9f9f&bg_color=302b2d" alt="Chandan's Public Github Stats">
 </p>  
+
+<p align="center">
+<img width="500" height="auto" align="right" alt="Joykishan's github stats" 
+         src="https://github-readme-stats.vercel.app/api?username=joykishansharma&show_icons=true&theme=algolia&count_private=true" />
+</p>
+
 
 Here are some ideas to get you started:
 
