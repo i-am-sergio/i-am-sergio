@@ -18,7 +18,6 @@
 <!--
 https://github.com/tandpfun/skill-icons
 -->
-## More Experience
 
 <p>
 A Full Stack JavaScript Developer 🚀 from Peru. I consider myself as a skilled JS Developer with good debugging skills.
@@ -89,7 +88,7 @@ Want to become a full-time Freelancer 💸 and an Open Source Contributor ❤️
 
 <p width="100%" align="center">
   <a align="left" href="https://github.com/heros789-sergio/proyecto-dbp-java-mysql" title="Bank System Java-Mysql"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=heros789-sergio&repo=proyecto-dbp-java-mysql&theme=midnight-purple"></a>
-  <a align="right" href=https://github.com/heros789-sergio/SistemaBebidas" title="Warehouse system"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=heros789-sergio&repo=SistemaBebidas&theme=midnight-purple"></a>
+  <a align="right" href="https://github.com/heros789-sergio/SistemaBebidas" title="Warehouse system"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=heros789-sergio&repo=SistemaBebidas&theme=midnight-purple"></a>
 </p>
 
 <br><br><br><br>
