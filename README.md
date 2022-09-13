@@ -50,16 +50,16 @@ Want to become a full-time Freelancer 💸 and an Open Source Contributor ❤️
 ### Frontend
 ![HTML5](https://img.shields.io/badge/-HTML5-black?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-black?style=flat-square&logo=css3)
-![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript) <br>
+![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-black?style=flat-square&logo=bootstrap)
 ![SCSS](https://img.shields.io/badge/-SCSS-black?style=flat-square&logo=SASS)
-![Material_UI](https://img.shields.io/badge/-Material_UI-black?style=flat-square&logo=material-ui) <br>
+![Material_UI](https://img.shields.io/badge/-Material_UI-black?style=flat-square&logo=material-ui)
 ![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
 ![Redux](https://img.shields.io/badge/-Redux-black?style=flat-square&logo=Redux)
 
 ### Backend
 ![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js)
-![Express.js](https://img.shields.io/badge/-Express-black?style=flat-square&logo=expressjs)
+![Express.js](https://img.shields.io/badge/-Express-black?style=flat-square&logo=Express.js)
 ![Next.js](https://img.shields.io/badge/-Next-black?style=flat-square&logo=Next.js)
 
 ### Databases
@@ -71,27 +71,36 @@ Want to become a full-time Freelancer 💸 and an Open Source Contributor ❤️
 ![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github)
 ![Heroku](https://img.shields.io/badge/-Heroku-black?style=flat-square&logo=heroku)
 ![Vercel](https://img.shields.io/badge/-Vercel-black?style=flat-square&logo=vercel)
+
+### Desktop Environment
 ![Ubuntu](https://img.shields.io/badge/-Ubuntu-black?style=flat-square&logo=ubuntu)
-
-
-
 ![C++](https://img.shields.io/badge/-C-black?style=flat-square&logo=c)
 ![Netlify](https://img.shields.io/badge/-Netlify-black?style=flat-square&logo=netlify)
 
+<a href="https://github.com/anuraghazra/github-readme-stats" title="Go to Source"><img width="100%" height="200" src="https://github-readme-stats.vercel.app/api?username=i-am-sergio&show_icons=true&theme=gotham"></a>
 
-<p align="center">
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=i-am-sergio&show_icons=true&title_color=fff&icon_color=109eff&text_color=9f9f9f&bg_color=302b2d" alt="Chandan's Public Github Stats">
-</p>  
 
-<p align="center">
-<img width="500" height="auto" align="center" alt="i-am-sergio's github stats" 
-         src="https://github-readme-stats.vercel.app/api?username=i-am-sergio&show_icons=true&theme=algolia&count_private=true" />
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=i-am-sergio&layout=compact&theme=merko)](https://github.com/anuraghazra/github-readme-stats)
+
+<h2 align="center">Repositories</h2>
+
+<p width="100%" align="center">
+  <a align="left" href="https://github.com/heros789-sergio/proyecto-dbp-java-mysql" title="Bank System Java-Mysql"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=heros789-sergio&repo=proyecto-dbp-java-mysql&theme=gotham"></a>
+  <a align="right" href=https://github.com/heros789-sergio/SistemaBebidas" title="Warehouse system"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=heros789-sergio&repo=SistemaBebidas&theme=gotham"></a>
 </p>
 
+<br><br><br><br>
 
- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=i-am-sergio&layout=compact&theme=merko)](https://github.com/anuraghazra/github-readme-stats)
+<p width="100%" align="center">
+  <a align="left" href="https://github.com/heros789-sergio/proyecto-ti1-php-mysql" title="System Attendance PHP-Mysql-Js"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=heros789-sergio&repo=proyecto-ti1-php-mysql&theme=gotham"></a>
+  <a align="right" href="https://github.com/heros789-sergio/portafolio-reactjs" title="Project with ReactJs"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=heros789-sergio&repo=portafolio-reactjs&theme=gotham"></a>
+</p>
 
- 
+<br><br><br><br>
+
+<h4 align="center"><a href=https://github.com/i-am-sergio?tab=repositories" title="Show Repositories">🔎 Show More 🔍</a></h4>
+<p align = "center">⭐ From <a href="https://github.com/i-am-sergio/">i-am-sergio</a></p>
+
 
 
 
