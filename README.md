@@ -21,8 +21,10 @@
 <p align="center">
 <code><img height="75" src="https://github.com/chandan-reddy-k/chandan-reddy-k/blob/master/assets/graphql.png"></code> &nbsp;&nbsp;
 <code><img height="70" src="https://github.com/chandan-reddy-k/chandan-reddy-k/blob/master/assets/next.png"></code> &nbsp;&nbsp;
-<code><img height="75"  src="https://github.com/i-am-sergio/i-am-sergio/issues/1#issue-1369194643"></code> &nbsp;&nbsp;
-<code><img height="75" src="https://github.com/chandan-reddy-k/chandan-reddy-k/blob/master/assets/npm.png"></code>
+<code><img height="75"  src="https://user-images.githubusercontent.com/113309955/189564602-2c4a21a2-70bd-4c2e-9e3b-dfb239ae8821.svg"></code> &nbsp;&nbsp;
+<code><img height="75"  src="https://user-images.githubusercontent.com/113309955/189798492-ddaa2a25-e865-4468-bf90-1ae5ed695063.png"></code> &nbsp;&nbsp;
+<code><img height="75" src="https://github.com/chandan-reddy-k/chandan-reddy-k/blob/master/assets/npm.png"></code> &nbsp;&nbsp;
+  
 </p>
 <br/>
 
