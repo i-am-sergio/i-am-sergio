@@ -1,4 +1,4 @@
-### Hi there 👋, I'm [Sergio](https://github.com/i-am-sergio) 👨‍💻
+# Hi there 👋, I'm [Sergio](https://github.com/i-am-sergio) 👨‍💻
 
 <br/>
 
@@ -78,27 +78,27 @@ Want to become a full-time Freelancer 💸 and an Open Source Contributor ❤️
 ![Netlify](https://img.shields.io/badge/-Netlify-black?style=flat-square&logo=netlify)
 
 <a href="https://github.com/anuraghazra/github-readme-stats" title="Go to Source">
-  <img width="100%" height="200" src="https://github-readme-stats.vercel.app/api?username=i-am-sergio&show_icons=true&theme=gotham">
+  <img width="100%" height="200" src="https://github-readme-stats.vercel.app/api?username=i-am-sergio&show_icons=true&theme=midnight-purple">
 </a>
 
+<!--
 <a href="https://github.com/anuraghazra/github-readme-stats" margin-left="100px">
-  <img width="50%" height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact" />
+  <img width="50%" height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=heros789-sergio&layout=compact&theme=midnight-purple" />
 </a>
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+-->
 
 <h2 align="center">Repositories</h2>
 
 <p width="100%" align="center">
-  <a align="left" href="https://github.com/heros789-sergio/proyecto-dbp-java-mysql" title="Bank System Java-Mysql"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=heros789-sergio&repo=proyecto-dbp-java-mysql&theme=gotham"></a>
-  <a align="right" href=https://github.com/heros789-sergio/SistemaBebidas" title="Warehouse system"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=heros789-sergio&repo=SistemaBebidas&theme=gotham"></a>
+  <a align="left" href="https://github.com/heros789-sergio/proyecto-dbp-java-mysql" title="Bank System Java-Mysql"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=heros789-sergio&repo=proyecto-dbp-java-mysql&theme=midnight-purple"></a>
+  <a align="right" href=https://github.com/heros789-sergio/SistemaBebidas" title="Warehouse system"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=heros789-sergio&repo=SistemaBebidas&theme=midnight-purple"></a>
 </p>
 
 <br><br><br><br>
 
 <p width="100%" align="center">
-  <a align="left" href="https://github.com/heros789-sergio/proyecto-ti1-php-mysql" title="System Attendance PHP-Mysql-Js"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=heros789-sergio&repo=proyecto-ti1-php-mysql&theme=gotham"></a>
-  <a align="right" href="https://github.com/heros789-sergio/portafolio-reactjs" title="Project with ReactJs"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=heros789-sergio&repo=portafolio-reactjs&theme=gotham"></a>
+  <a align="left" href="https://github.com/heros789-sergio/proyecto-ti1-php-mysql" title="System Attendance PHP-Mysql-Js"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=heros789-sergio&repo=proyecto-ti1-php-mysql&theme=midnight-purple"></a>
+  <a align="right" href="https://github.com/heros789-sergio/portafolio-reactjs" title="Project with ReactJs"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=heros789-sergio&repo=portafolio-reactjs&theme=midnight-purple"></a>
 </p>
 
 <br><br><br><br>
