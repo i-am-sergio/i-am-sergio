@@ -1,26 +1,23 @@
 # Hi there 👋, I'm [Sergio](https://github.com/i-am-sergio) 👨‍💻
-
-<br/>
+<br>
 
 <a href="https://www.linkedin.com/in/aman-atg/">
   <img align="left" alt="Aman's Linkedin" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
-
-<a href="https://t.me/amanatg0">
-  <img align="left" alt="Aman's Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />
-</a>
-
 <a href="https://twitter.com/aman_atg">
   <img align="left" alt="Aman Ansari | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
 </a>
-
 <a href="mailto:sergio15.dev@gmail.com">
   <img align="left" alt="Aman's Email" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
 </a>
 
-
 <br />
 <br/>
+<!--
+https://github.com/tandpfun/skill-icons
+-->
+## More Experience
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
 
 <p>
 A Full Stack JavaScript Developer 🚀 from Peru. I consider myself as a skilled JS Developer with good debugging skills.
@@ -105,7 +102,6 @@ Want to become a full-time Freelancer 💸 and an Open Source Contributor ❤️
 
 <h4 align="center"><a href="https://github.com/i-am-sergio?tab=repositories" title="Show Repositories">🔎 Show More 🔍</a></h4>
 <p align = "center">⭐ From <a href="https://github.com/i-am-sergio/">i-am-sergio</a></p>
-
 
 
 
