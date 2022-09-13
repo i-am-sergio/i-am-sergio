@@ -1,23 +1,24 @@
-# Hi there 👋, I'm [Sergio](https://github.com/i-am-sergio) 👨‍💻
-<br>
+# Hi there 👋, I'm [Sergio](https://github.com/i-am-sergio) 👨‍💻 [ [![My Skills](https://skillicons.dev/icons?i=js,java,py,react,nodejs)](https://skillicons.dev) ]
 
-<a href="https://www.linkedin.com/in/aman-atg/">
-  <img align="left" alt="Aman's Linkedin" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
-</a>
-<a href="https://twitter.com/aman_atg">
-  <img align="left" alt="Aman Ansari | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
-</a>
-<a href="mailto:sergio15.dev@gmail.com">
-  <img align="left" alt="Aman's Email" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
-</a>
+## 📇 Social & Contact
 
-<br />
-<br/>
+<div align="left">
+  <a href="mailto:sergio15.dev@gmail.com" target="_blank" rel="noreferrer"> <img alt="Aras Güngöre's E-mail Address" src="https://img.shields.io/badge/E&#8209;mail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /> </a>
+  &nbsp;
+  <a href="https://arasgungore.github.io/" target="_blank" rel="noreferrer"> <img alt="Aras Güngöre's Portfolio" src="https://img.shields.io/badge/Portfolio-08203A?style=for-the-badge&logo=About.me&logoColor=white" /> </a>
+  &nbsp;
+  <a href="https://www.linkedin.com/in/arasgungore" target="_blank" rel="noreferrer"> <img alt="Aras Güngöre's LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /> </a>
+  &nbsp;
+  <a href="https://github.com/i-am-sergio" target="_blank" rel="noreferrer"> <img alt="Aras Güngöre's GitHub" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" /> </a>
+  &nbsp;
+  <a href="https://www.hackerrank.com/arasgungore" target="_blank" rel="noreferrer"> <img alt="Aras Güngöre's HackerRank" src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" /> </a>
+  &nbsp;
+  <a href="https://leetcode.com/arasgungore" target="_blank" rel="noreferrer"> <img alt="Aras Güngöre's LeetCode" src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" /> </a>
+</div>
 <!--
 https://github.com/tandpfun/skill-icons
 -->
 ## More Experience
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
 
 <p>
 A Full Stack JavaScript Developer 🚀 from Peru. I consider myself as a skilled JS Developer with good debugging skills.
