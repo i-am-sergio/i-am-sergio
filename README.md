@@ -49,42 +49,48 @@ Want to become a full-time Freelancer 💸 and an Open Source Contributor ❤️
 ## 🛠️ Languages and Tools
 
 <h2 align="center">Frontend</h2>
-<img src="https://img.shields.io/badge/-C++-black?style=for-the-badge&logo=c%2B%2B&logoColor=blue" style="margin:5px" />
-<img src="https://img.shields.io/badge/-C%23-black?style=for-the-badge&logo=c-sharp&logoColor=green" style="margin:5px" />
+<div align="center">
 
-<center>
-  
 ![HTML5](https://img.shields.io/badge/-HTML5-black?style=flat-square&logo=html5&logoColor=white)
-</center>
-  
 ![CSS3](https://img.shields.io/badge/-CSS3-black?style=flat-square&logo=css3)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-black?style=flat-square&logo=bootstrap)
-![SCSS](https://img.shields.io/badge/-SCSS-black?style=flat-square&logo=SASS)
-![Material_UI](https://img.shields.io/badge/-Material_UI-black?style=flat-square&logo=material-ui)
+![SASS](https://img.shields.io/badge/-SCSS-black?style=flat-square&logo=SASS)
 ![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
 ![Redux](https://img.shields.io/badge/-Redux-black?style=flat-square&logo=Redux)
-</p>
+</div>
 
-### Backend
+<h2 align="center">Backend</h2>
+<div align="center">
+
 ![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js)
 ![Express.js](https://img.shields.io/badge/-Express-black?style=flat-square&logo=Express.js)
 ![Next.js](https://img.shields.io/badge/-Next-black?style=flat-square&logo=Next.js)
+</div>
 
-### Databases
+<h2 align="center">Databases</h2>
+<div align="center">
+
 ![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb)
 ![Firebase](https://img.shields.io/badge/-Firebase-black?style=flat-square&logo=Firebase)
+</div>
 
-### Deployment
+<h2 align="center">Deployment</h2>
+<div align="center">
+
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github)
 ![Heroku](https://img.shields.io/badge/-Heroku-black?style=flat-square&logo=heroku)
 ![Vercel](https://img.shields.io/badge/-Vercel-black?style=flat-square&logo=vercel)
+</div>
 
-### Desktop Environment
+<h2 align="center">Desktop Environment</h2>
+<div align="center">
+
 ![Ubuntu](https://img.shields.io/badge/-Ubuntu-black?style=flat-square&logo=ubuntu)
 ![C++](https://img.shields.io/badge/-C-black?style=flat-square&logo=c)
 ![Netlify](https://img.shields.io/badge/-Netlify-black?style=flat-square&logo=netlify)
+</div>
 
 <a href="https://github.com/anuraghazra/github-readme-stats" title="Go to Source">
   <img width="100%" height="200" src="https://github-readme-stats.vercel.app/api?username=i-am-sergio&show_icons=true&theme=midnight-purple">
