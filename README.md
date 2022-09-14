@@ -32,9 +32,9 @@ https://github.com/tandpfun/skill-icons
 -->
 <br>
 <p>
-A Full Stack JavaScript Developer 🚀 from Peru. I consider myself as a skilled JS Developer with good debugging skills.
+A Full Stack Developer 🚀 from Peru. I consider myself as a skilled JS Developer with good debugging skills.
 <br/>
-Stacks I have worked with : MERN , React+Firebase , Next+React.
+Stacks I have worked with : MERN , React+Firebase , Next+React , PHP+MySQL.
 <br/>  
 Things I have recently experimented with : pocketbase, react-cli , commander , and a lot of other ui-libs...
 <br/>
