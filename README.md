@@ -1,6 +1,8 @@
 <!-- Mas configuraciones y temas en: https://github.com/topics/readme-stats -->
-
+<div align="center">
+ 
 # Hi there 👋, I'm [Sergio](https://github.com/i-am-sergio) 👨‍💻 
+</div>
 
 <!-- Para los iconos: ![My Skills](https://skillicons.dev/icons?i=js,java,py,react,nodejs)](https://skillicons.dev) -->
 
@@ -64,6 +66,7 @@ Want to become a full-time Freelancer 💸 and an Open Source Contributor ❤️
 ![HTML5](https://img.shields.io/badge/-HTML5-black?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-black?style=flat-square&logo=css3)
 ![JavaScript](https://img.shields.io/badge/-JAVASCRIPT-black?style=flat-square&logo=javascript)
+![TypeScript](https://img.shields.io/badge/-TYPESCRIPT-black?style=flat-square&logo=typescript)
 ![Bootstrap](https://img.shields.io/badge/-BOOTSTRAP-black?style=flat-square&logo=bootstrap)
 ![SASS](https://img.shields.io/badge/-SASS-black?style=flat-square&logo=SASS)
 ![React](https://img.shields.io/badge/-REACT-black?style=flat-square&logo=react)
@@ -73,45 +76,53 @@ Want to become a full-time Freelancer 💸 and an Open Source Contributor ❤️
 <h2 align="center">Backend</h2>
 <div align="center">
 
-![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js)
-![Expressjs](https://img.shields.io/badge/-Expressjs-black?style=flat-square&logo=Express)
-![Next.js](https://img.shields.io/badge/-Nextjs-black?style=flat-square&logo=Next.js)
+![Nodejs](https://img.shields.io/badge/-NODEJS-black?style=flat-square&logo=Node.js)
+![Expressjs](https://img.shields.io/badge/-EXPRESSJS-black?style=flat-square&logo=Express)
+![Next.js](https://img.shields.io/badge/-NEXTJS-black?style=flat-square&logo=Next.js)
 ![PHP](https://img.shields.io/badge/-PHP-black?style=flat-square&logo=php)
-![Java](https://img.shields.io/badge/-Java-black?style=flat-square&logo=javaboot)
-![Spring](https://img.shields.io/badge/-Spring-black?style=flat-square&logo=spring)
+![Java](https://img.shields.io/badge/-JAVA-black?style=flat-square&logo=jdk)
+![Spring](https://img.shields.io/badge/-SPRING-black?style=flat-square&logo=spring)
+![Prisma](https://img.shields.io/badge/-PRISMA-black?style=flat-square&logo=prisma)
 </div>
 
 <h2 align="center">Databases</h2>
 <div align="center">
 
-![MySql](https://img.shields.io/badge/-MySql-black?style=flat-square&logo=mysql)
-![SqlServer](https://img.shields.io/badge/-SqlServer-black?style=flat-square&logo=microsoftsqlserver)
-![PostreSql](https://img.shields.io/badge/-PostgreSql-black?style=flat-square&logo=postgresql)
-![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb)
-![Firebase](https://img.shields.io/badge/-Firebase-black?style=flat-square&logo=Firebase)
+![MySql](https://img.shields.io/badge/-MYSQL-black?style=flat-square&logo=mysql)
+![SqlServer](https://img.shields.io/badge/-SQLSERVER-black?style=flat-square&logo=microsoftsqlserver)
+![PostreSql](https://img.shields.io/badge/-POSTGRESQL-black?style=flat-square&logo=postgresql)
+![MongoDB](https://img.shields.io/badge/-MONGODB-black?style=flat-square&logo=mongodb)
+![Firebase](https://img.shields.io/badge/-FIREBASE-black?style=flat-square&logo=firebase)
 </div>
 
 <h2 align="center">Deployment</h2>
 <div align="center">
 
-![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
-![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github)
-![Heroku](https://img.shields.io/badge/-Heroku-black?style=flat-square&logo=heroku)
-![Vercel](https://img.shields.io/badge/-Vercel-black?style=flat-square&logo=vercel)
+![Git](https://img.shields.io/badge/-GIT-black?style=flat-square&logo=git)
+![GitHub](https://img.shields.io/badge/-GITHUB-black?style=flat-square&logo=github)
+![Docker](https://img.shields.io/badge/-DOCKER-black?style=flat-square&logo=docker)
+![Heroku](https://img.shields.io/badge/-HEROKU-black?style=flat-square&logo=heroku)
+![Vercel](https://img.shields.io/badge/-VERCEL-black?style=flat-square&logo=vercel)
 </div>
 
 <h2 align="center">Desktop Environment</h2>
 <div align="center">
 
-![Ubuntu](https://img.shields.io/badge/-Ubuntu-black?style=flat-square&logo=ubuntu)
-![Debian](https://img.shields.io/badge/-Debian-black?style=flat-square&logo=debian)
-![Windows](https://img.shields.io/badge/-Windows-black?style=flat-square&logo=windows)
-
+![Windows](https://img.shields.io/badge/-WINDOWS-black?style=flat-square&logo=windows)
+![Ubuntu](https://img.shields.io/badge/-UBUNTU-black?style=flat-square&logo=ubuntu)
+![Debian](https://img.shields.io/badge/-DEBIAN-black?style=flat-square&logo=debian)
 </div>
 
+<br>
+<div align="center">
+
 <a href="https://github.com/anuraghazra/github-readme-stats" title="Go to Source">
-  <img width="100%" height="200" src="https://github-readme-stats.vercel.app/api?username=i-am-sergio&show_icons=true&theme=github_dark">
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=i-am-sergio&show_icons=true&theme=github_dark">
 </a>
+<a href="https://github.com/trinib/AdGuard-WireGuard-Unbound-Cloudflare">
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=trinib&layout=compact&theme=github_dark">
+</a>
+</div>
 
 <!--
 <a href="https://github.com/anuraghazra/github-readme-stats" margin-left="100px">
@@ -138,8 +149,6 @@ Want to become a full-time Freelancer 💸 and an Open Source Contributor ❤️
 <!--📈ACTIVITYGRAPH / configuraciones y temas del grafico aqui: https://github.com/i-am-sergio/github-readme-activity-graph#customization -->
 
 ![i-am-sergio's github activity graph](https://activity-graph.herokuapp.com/graph?username=i-am-sergio&theme=react-dark)
-
-<br>
 
 <h4 align="center"><a href="https://github.com/i-am-sergio?tab=repositories" title="Show Repositories">🔎 Show More 🔍</a></h4>
 <p align = "center">⭐ From <a href="https://github.com/i-am-sergio/">i-am-sergio</a></p>
