@@ -3,7 +3,7 @@
  
 # Hi there 👋, I'm [Sergio](https://github.com/i-am-sergio) 👨‍💻 
 </div>
-
+<br>
 <!-- Para los iconos: ![My Skills](https://skillicons.dev/icons?i=js,java,py,react,nodejs)](https://skillicons.dev) -->
 
 <div align="center">
