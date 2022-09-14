@@ -1,6 +1,13 @@
+<!-- Mas configuraciones y temas en: https://github.com/topics/readme-stats -->
+
 # Hi there 👋, I'm [Sergio](https://github.com/i-am-sergio) 👨‍💻 
 
-<!--![My Skills](https://skillicons.dev/icons?i=js,java,py,react,nodejs)](https://skillicons.dev) -->
+<!-- Para los iconos: ![My Skills](https://skillicons.dev/icons?i=js,java,py,react,nodejs)](https://skillicons.dev) -->
+
+<div align="center">
+  
+![My Skills](https://skillicons.dev/icons?i=js,java,py,php,cpp,git)
+</div>
 
 ## 📇 Social & Contact
 
@@ -34,7 +41,8 @@ Things I have recently experimented with : pocketbase, react-cli , commander , a
 Want to become a full-time Freelancer 💸 and an Open Source Contributor ❤️.
 </p>
 
-<img align="right" alt="GIF" src="https://media.giphy.com/media/MC6eSuC3yypCU/giphy.gif" />
+
+<img align="right" src="https://raw.githubusercontent.com/trinib/trinib/main/.images/terminal.gif" width="350">
   
 ### ✨ Quick Facts
 
@@ -46,6 +54,8 @@ Want to become a full-time Freelancer 💸 and an Open Source Contributor ❤️
 - 📫 How to reach me: sergio15.dev@gmail.com
 - 📝 [Curriculum](#) (Latest)
 
+<br><br>
+
 ## 🛠️ Languages and Tools
 
 <h2 align="center">Frontend</h2>
@@ -53,24 +63,30 @@ Want to become a full-time Freelancer 💸 and an Open Source Contributor ❤️
 
 ![HTML5](https://img.shields.io/badge/-HTML5-black?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-black?style=flat-square&logo=css3)
-![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-black?style=flat-square&logo=bootstrap)
-![SASS](https://img.shields.io/badge/-SCSS-black?style=flat-square&logo=SASS)
-![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
-![Redux](https://img.shields.io/badge/-Redux-black?style=flat-square&logo=Redux)
+![JavaScript](https://img.shields.io/badge/-JAVASCRIPT-black?style=flat-square&logo=javascript)
+![Bootstrap](https://img.shields.io/badge/-BOOTSTRAP-black?style=flat-square&logo=bootstrap)
+![SASS](https://img.shields.io/badge/-SASS-black?style=flat-square&logo=SASS)
+![React](https://img.shields.io/badge/-REACT-black?style=flat-square&logo=react)
+![Redux](https://img.shields.io/badge/-REDUX-black?style=flat-square&logo=Redux)
 </div>
 
 <h2 align="center">Backend</h2>
 <div align="center">
 
 ![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js)
-![Express.js](https://img.shields.io/badge/-Express-black?style=flat-square&logo=Express.js)
-![Next.js](https://img.shields.io/badge/-Next-black?style=flat-square&logo=Next.js)
+![Expressjs](https://img.shields.io/badge/-Expressjs-black?style=flat-square&logo=Express)
+![Next.js](https://img.shields.io/badge/-Nextjs-black?style=flat-square&logo=Next.js)
+![PHP](https://img.shields.io/badge/-PHP-black?style=flat-square&logo=php)
+![Java](https://img.shields.io/badge/-Java-black?style=flat-square&logo=javaboot)
+![Spring](https://img.shields.io/badge/-Spring-black?style=flat-square&logo=spring)
 </div>
 
 <h2 align="center">Databases</h2>
 <div align="center">
 
+![MySql](https://img.shields.io/badge/-MySql-black?style=flat-square&logo=mysql)
+![SqlServer](https://img.shields.io/badge/-SqlServer-black?style=flat-square&logo=microsoftsqlserver)
+![PostreSql](https://img.shields.io/badge/-PostgreSql-black?style=flat-square&logo=postgresql)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb)
 ![Firebase](https://img.shields.io/badge/-Firebase-black?style=flat-square&logo=Firebase)
 </div>
@@ -88,12 +104,13 @@ Want to become a full-time Freelancer 💸 and an Open Source Contributor ❤️
 <div align="center">
 
 ![Ubuntu](https://img.shields.io/badge/-Ubuntu-black?style=flat-square&logo=ubuntu)
-![C++](https://img.shields.io/badge/-C-black?style=flat-square&logo=c)
-![Netlify](https://img.shields.io/badge/-Netlify-black?style=flat-square&logo=netlify)
+![Debian](https://img.shields.io/badge/-Debian-black?style=flat-square&logo=debian)
+![Windows](https://img.shields.io/badge/-Windows-black?style=flat-square&logo=windows)
+
 </div>
 
 <a href="https://github.com/anuraghazra/github-readme-stats" title="Go to Source">
-  <img width="100%" height="200" src="https://github-readme-stats.vercel.app/api?username=i-am-sergio&show_icons=true&theme=midnight-purple">
+  <img width="100%" height="200" src="https://github-readme-stats.vercel.app/api?username=i-am-sergio&show_icons=true&theme=github_dark">
 </a>
 
 <!--
@@ -105,18 +122,24 @@ Want to become a full-time Freelancer 💸 and an Open Source Contributor ❤️
 <h2 align="center">Repositories</h2>
 
 <p width="100%" align="center">
-  <a align="left" href="https://github.com/heros789-sergio/proyecto-dbp-java-mysql" title="Bank System Java-Mysql"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=heros789-sergio&repo=proyecto-dbp-java-mysql&theme=midnight-purple"></a>
-  <a align="right" href="https://github.com/heros789-sergio/SistemaBebidas" title="Warehouse system"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=heros789-sergio&repo=SistemaBebidas&theme=midnight-purple"></a>
+  <a align="left" href="https://github.com/heros789-sergio/proyecto-dbp-java-mysql" title="Bank System Java-Mysql"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=heros789-sergio&repo=proyecto-dbp-java-mysql&theme=github_dark"></a>
+  <a align="right" href="https://github.com/heros789-sergio/SistemaBebidas" title="Warehouse system"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=heros789-sergio&repo=SistemaBebidas&theme=github_dark"></a>
 </p>
 
 <br><br><br><br>
 
 <p width="100%" align="center">
-  <a align="left" href="https://github.com/heros789-sergio/proyecto-ti1-php-mysql" title="System Attendance PHP-Mysql-Js"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=heros789-sergio&repo=proyecto-ti1-php-mysql&theme=midnight-purple"></a>
-  <a align="right" href="https://github.com/heros789-sergio/portafolio-reactjs" title="Project with ReactJs"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=heros789-sergio&repo=portafolio-reactjs&theme=midnight-purple"></a>
+  <a align="left" href="https://github.com/heros789-sergio/proyecto-ti1-php-mysql" title="System Attendance PHP-Mysql-Js"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=heros789-sergio&repo=proyecto-ti1-php-mysql&theme=github_dark"></a>
+  <a align="right" href="https://github.com/heros789-sergio/portafolio-reactjs" title="Project with ReactJs"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=heros789-sergio&repo=portafolio-reactjs&theme=github_dark"></a>
 </p>
 
-<br><br><br><br>
+<br><br><br><br><br><br>
+
+<!--📈ACTIVITYGRAPH / configuraciones y temas del grafico aqui: https://github.com/i-am-sergio/github-readme-activity-graph#customization -->
+
+![i-am-sergio's github activity graph](https://activity-graph.herokuapp.com/graph?username=i-am-sergio&theme=react-dark)
+
+<br>
 
 <h4 align="center"><a href="https://github.com/i-am-sergio?tab=repositories" title="Show Repositories">🔎 Show More 🔍</a></h4>
 <p align = "center">⭐ From <a href="https://github.com/i-am-sergio/">i-am-sergio</a></p>
