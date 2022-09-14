@@ -3,7 +3,6 @@
  
 # Hi there 👋, I'm [Sergio](https://github.com/i-am-sergio) 👨‍💻 
 </div>
-<br>
 <!-- Para los iconos: ![My Skills](https://skillicons.dev/icons?i=js,java,py,react,nodejs)](https://skillicons.dev) -->
 
 <div align="center">
@@ -12,7 +11,6 @@
 </div>
 
 ## 📇 Social & Contact
-
 <div align="left">
   <a href="mailto:sergio15.dev@gmail.com" target="_blank" rel="noreferrer"> <img alt="Aras Güngöre's E-mail Address" src="https://img.shields.io/badge/E&#8209;mail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /> </a>
   &nbsp;
@@ -32,7 +30,7 @@
 <!--
 https://github.com/tandpfun/skill-icons
 -->
-
+<br>
 <p>
 A Full Stack JavaScript Developer 🚀 from Peru. I consider myself as a skilled JS Developer with good debugging skills.
 <br/>
@@ -120,7 +118,7 @@ Want to become a full-time Freelancer 💸 and an Open Source Contributor ❤️
   <img height="160" src="https://github-readme-stats.vercel.app/api?username=i-am-sergio&show_icons=true&theme=github_dark">
 </a>
 <a href="https://github.com/trinib/AdGuard-WireGuard-Unbound-Cloudflare">
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=trinib&layout=compact&theme=github_dark">
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=heros789-sergio&layout=compact&theme=github_dark">
 </a>
 </div>
 
