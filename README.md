@@ -155,11 +155,11 @@ Want to become a full-time Freelancer 💸 and an Open Source Contributor ❤️
 
 <!--📈ACTIVITYGRAPH / configuraciones y temas del grafico aqui: https://github.com/i-am-sergio/github-readme-activity-graph#customization -->
 
-<h4 align="center"><a href="https://github.com/i-am-sergio?tab=repositories" title="Show More Repositories">🔎 Show More 🔍</a></h4>
+<h4 align="center"><a href="https://github.com/i-am-sergio?tab=repositories" title="Show More Repositories">🔎 Show More Repositories 🔍</a></h4>
 <p align = "center">⭐ From <a href="https://github.com/i-am-sergio/">i-am-sergio</a></p>
 <div align="center">
  
-[![Harlok's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=wakatimesergio&theme=github_dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Harlok's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=wakatimesergio&theme=github_dark)](https://github.com/i-am-sergio)
 </div>
 
 
