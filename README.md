@@ -4,9 +4,7 @@
 # Hi there 👋, I'm [Sergio](https://github.com/i-am-sergio) 👨‍💻 
 </div>
 <!-- Para los iconos: ![My Skills](https://skillicons.dev/icons?i=js,java,py,react,nodejs)](https://skillicons.dev) -->
-<div align="center">
-More experienced technologies
-</div>
+<p align="center"><strong>More experienced technologies</strong></p>
 <div align="center">
  
 ![My Skills](https://skillicons.dev/icons?i=nodejs,cpp,cs,java,py,react,mysql,mongodb)
