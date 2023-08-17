@@ -159,7 +159,7 @@ Want to become a full-time Freelancer 💸 and an Open Source Contributor ❤️
 <p align = "center">⭐ From <a href="https://github.com/i-am-sergio/">i-am-sergio</a></p>
 <div align="center">
  
-[![Harlok's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=i-am-sergio&theme=github_dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Harlok's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=wakatimesergio&theme=github_dark)](https://github.com/anuraghazra/github-readme-stats)
 </div>
 
 
