@@ -7,7 +7,7 @@
 
 <div align="center">
   
-![My Skills](https://skillicons.dev/icons?i=js,java,py,php,cpp,git)
+![My Skills](https://skillicons.dev/icons?i=js,java,py,csharp,cpp,git)
 </div>
 
 ## 📇 Social & Contact
