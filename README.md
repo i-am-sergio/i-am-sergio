@@ -103,7 +103,9 @@ Want to become a full-time Freelancer 💸 and an Open Source Contributor ❤️
 ![Git](https://img.shields.io/badge/-GIT-black?style=flat-square&logo=git)
 ![GitHub](https://img.shields.io/badge/-GITHUB-black?style=flat-square&logo=github)
 ![Docker](https://img.shields.io/badge/-DOCKER-black?style=flat-square&logo=docker)
-![Heroku](https://img.shields.io/badge/-HEROKU-black?style=flat-square&logo=heroku)
+![Railway](https://img.shields.io/badge/-RAILWAY-black?style=flat-square&logo=railway)
+![Render](https://img.shields.io/badge/-RENDER-black?style=flat-square&logo=render)
+![GithubPages](https://img.shields.io/badge/-GITHUBPAGES-black?style=flat-square&logo=githubpages)
 ![Vercel](https://img.shields.io/badge/-VERCEL-black?style=flat-square&logo=vercel)
 </div>
 
