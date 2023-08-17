@@ -126,7 +126,7 @@ Want to become a full-time Freelancer 💸 and an Open Source Contributor ❤️
   <img height="160" src="https://github-readme-stats.vercel.app/api?username=i-am-sergio&show_icons=true&theme=github_dark">
 </a>
 <a href="https://github.com/trinib/AdGuard-WireGuard-Unbound-Cloudflare">
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=heros789-sergio&layout=compact&theme=github_dark">
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=i-am-sergio&layout=compact&theme=github_dark">
 </a>
 </div>
 
