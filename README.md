@@ -6,11 +6,11 @@
 <!-- Para los iconos: ![My Skills](https://skillicons.dev/icons?i=js,java,py,react,nodejs)](https://skillicons.dev) -->
 <div align="center">
  
-Best experienced programming languages
+More experienced technologies
 </div>div
 <div align="center">
  
-![My Skills](https://skillicons.dev/icons?i=js,java,py,cpp,php)
+![My Skills](https://skillicons.dev/icons?i=nodejs,cpp,cs,java,py,react,mysql,mongodb)
 </div>
 
 ## 📇 Social & Contact
