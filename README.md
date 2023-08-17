@@ -117,6 +117,7 @@ Want to become a full-time Freelancer 💸 and an Open Source Contributor ❤️
 ![Windows](https://img.shields.io/badge/-WINDOWS-black?style=flat-square&logo=windows)
 ![Ubuntu](https://img.shields.io/badge/-UBUNTU-black?style=flat-square&logo=ubuntu)
 ![Debian](https://img.shields.io/badge/-DEBIAN-black?style=flat-square&logo=debian)
+![Fedora](https://img.shields.io/badge/-FEDORA-black?style=flat-square&logo=fedora)
 </div>
 
 <br>
