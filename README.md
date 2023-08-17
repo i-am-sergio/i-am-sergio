@@ -68,7 +68,7 @@ Want to become a full-time Freelancer 💸 and an Open Source Contributor ❤️
 ![CSS3](https://img.shields.io/badge/-CSS3-black?style=flat-square&logo=css3)
 ![JavaScript](https://img.shields.io/badge/-JAVASCRIPT-black?style=flat-square&logo=javascript)
 ![TypeScript](https://img.shields.io/badge/-TYPESCRIPT-black?style=flat-square&logo=typescript)
-![Tailwind](https://img.shields.io/badge/-TAILWIND-black?style=flat-square&logo=tailwind)
+![Tailwind](https://img.shields.io/badge/-TAILWIND-black?style=flat-square&logo=tailwindcss)
 ![Bootstrap](https://img.shields.io/badge/-BOOTSTRAP-black?style=flat-square&logo=bootstrap)
 <!--![SASS](https://img.shields.io/badge/-SASS-black?style=flat-square&logo=SASS)-->
 ![React](https://img.shields.io/badge/-REACT-black?style=flat-square&logo=react)
@@ -82,7 +82,7 @@ Want to become a full-time Freelancer 💸 and an Open Source Contributor ❤️
 ![Expressjs](https://img.shields.io/badge/-EXPRESSJS-black?style=flat-square&logo=Express)
 ![Next.js](https://img.shields.io/badge/-NEXTJS-black?style=flat-square&logo=Next.js)
 ![PHP](https://img.shields.io/badge/-PHP-black?style=flat-square&logo=php)
-![Java](https://img.shields.io/badge/-JAVA-black?style=flat-square&logo=jdk)
+![Java](https://img.shields.io/badge/-JAVA-black?style=flat-square&logo=openjdk)
 ![Spring](https://img.shields.io/badge/-SPRING-black?style=flat-square&logo=spring)
 ![Prisma](https://img.shields.io/badge/-PRISMA-black?style=flat-square&logo=prisma)
 </div>
