@@ -158,7 +158,9 @@ Want to become a full-time Freelancer 💸 and an Open Source Contributor ❤️
 <h4 align="center"><a href="https://github.com/i-am-sergio?tab=repositories" title="Show More Repositories">🔎 Show More 🔍</a></h4>
 <p align = "center">⭐ From <a href="https://github.com/i-am-sergio/">i-am-sergio</a></p>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=i-am-sergio&layout=pie)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://stats-my-github.vercel.app/api/top-langs/?username=i-am-sergio&layout=pie)](https://github.com/anuraghazra/github-readme-stats)
+
+
 
 
 
