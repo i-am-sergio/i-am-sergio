@@ -10,7 +10,7 @@ Best experienced programming languages
 </div>div
 <div align="center">
  
-![My Skills](https://skillicons.dev/icons?i=js,java,py,cs,cpp,php)
+![My Skills](https://skillicons.dev/icons?i=js,java,py,cpp,php)
 </div>
 
 ## 📇 Social & Contact
