@@ -124,7 +124,7 @@ Want to become a full-time Freelancer 💸 and an Open Source Contributor ❤️
 <div align="center">
 
 <a href="https://github.com/anuraghazra/github-readme-stats" title="Go to Source">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=heros789-sergio&show_icons=true&theme=github_dark">
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=i-am-sergio&show_icons=true&theme=github_dark">
 </a>
 <a href="https://github.com/trinib/AdGuard-WireGuard-Unbound-Cloudflare">
   <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=i-am-sergio&layout=compact&theme=github_dark">
