@@ -86,7 +86,7 @@ Want to become a full-time Freelancer 💸 and an Open Source Contributor ❤️
 ![PHP](https://img.shields.io/badge/-PHP-black?style=flat-square&logo=php)
 ![Java](https://img.shields.io/badge/-JAVA-black?style=flat-square&logo=openjdk)
 ![Spring](https://img.shields.io/badge/-SPRING-black?style=flat-square&logo=spring)
-![Prisma](https://img.shields.io/badge/-PRISMA-black?style=flat-square&logo=prisma)
+![Hibernate](https://img.shields.io/badge/-HIBERNATE-black?style=flat-square&logo=hibernate)
 </div>
 
 <h2 align="center">Databases</h2>
