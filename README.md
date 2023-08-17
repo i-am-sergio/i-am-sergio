@@ -81,6 +81,8 @@ Want to become a full-time Freelancer 💸 and an Open Source Contributor ❤️
 ![Nodejs](https://img.shields.io/badge/-NODEJS-black?style=flat-square&logo=Node.js)
 ![Expressjs](https://img.shields.io/badge/-EXPRESSJS-black?style=flat-square&logo=Express)
 ![Next.js](https://img.shields.io/badge/-NEXTJS-black?style=flat-square&logo=Next.js)
+![.NET](https://img.shields.io/badge/-.NET-black?style=flat-square&logo=dotnet)
+![C#](https://img.shields.io/badge/-C#-black?style=flat-square&logo=csharp)
 ![PHP](https://img.shields.io/badge/-PHP-black?style=flat-square&logo=php)
 ![Java](https://img.shields.io/badge/-JAVA-black?style=flat-square&logo=openjdk)
 ![Spring](https://img.shields.io/badge/-SPRING-black?style=flat-square&logo=spring)
