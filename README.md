@@ -6,8 +6,8 @@
 <!-- Para los iconos: ![My Skills](https://skillicons.dev/icons?i=js,java,py,react,nodejs)](https://skillicons.dev) -->
 
 <div align="center">
-  
-![My Skills](https://skillicons.dev/icons?i=js,java,py,csharp,cpp,git)
+*Best experienced programming languages*
+![My Skills](https://skillicons.dev/icons?i=js,java,py,cs,cpp,php)
 </div>
 
 ## 📇 Social & Contact
