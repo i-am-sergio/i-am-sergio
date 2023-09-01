@@ -51,7 +51,7 @@ Want to become a full-time Freelancer 💸 and an Open Source Contributor ❤️
 
 - 👨🏽‍💻 I’m currently learning React-Js and Backend Development with Express-Js
 - 🤔 I’m looking for help for my future MERN projects
-- 💬 Ask me about anything related to JS, React, Redux, and curiously C++.(After googling it 😜😌)
+- 💬 Ask me about anything related to JS, Java, and curiously C++.(After googling it 😜😌)
 - 🎿 Hobbies other than coding : Reading blogs or about History , Playing football , Thinking about new projects 🤔🤖..
 - 📫 How to reach me: sergio15.dev@gmail.com
 - 📝 [Curriculum](#) (Latest)
