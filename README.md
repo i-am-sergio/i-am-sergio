@@ -1,7 +1,7 @@
 <!-- Mas configuraciones y temas en: https://github.com/topics/readme-stats -->
 <div align="center">
  
-# Hi there 👋, I'm [Sergio](https://github.com/i-am-sergio) 👨‍💻 
+# Hi👋, I'm [Sergio](https://github.com/i-am-sergio) FullStack Developer 👨‍💻 
 </div>
 <!-- Para los iconos: ![My Skills](https://skillicons.dev/icons?i=js,java,py,react,nodejs)](https://skillicons.dev) -->
 <p align="center"><strong>More experienced technologies</strong></p>
