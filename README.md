@@ -17,7 +17,7 @@
   <!--https://arasgungore.github.io/-->
   <a href="#" target="_blank" rel="noreferrer"> <img alt="Aras Güngöre's Portfolio" src="https://img.shields.io/badge/Portfolio-08203A?style=for-the-badge&logo=About.me&logoColor=white" /> </a>
   &nbsp;
-  <a href="#" target="_blank" rel="noreferrer"> <img alt="Aras Güngöre's LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /> </a>
+  <a href="https://www.linkedin.com/in/sergio-daniel-mogollon-caceres-b36625250/" target="_blank" rel="noreferrer"> <img alt="Aras Güngöre's LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /> </a>
   &nbsp;
   <a href="https://github.com/i-am-sergio" target="_blank" rel="noreferrer"> <img alt="Aras Güngöre's GitHub" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" /> </a>
   &nbsp;
@@ -27,7 +27,7 @@
   &nbsp;
  -->
   <!--https://leetcode.com/arasgungore-->
-  <a href="https://leetcode.com/zipdev/" target="_blank" rel="noreferrer"> <img alt="Aras Güngöre's LeetCode" src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" /> </a>
+  <a href="https://leetcode.com/zipdev/" target="blank" rel="noreferrer"> <img alt="Aras Güngöre's LeetCode" src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" /> </a>
 </div>
 <!--
 https://github.com/tandpfun/skill-icons
