@@ -135,6 +135,8 @@ Want to become a full-time Freelancer 💸 and an Open Source Contributor ❤️
 </a>
 -->
 
+
+<!--
 <h2 align="center">Repositories</h2>
 
 <p width="100%" align="center">
@@ -148,6 +150,7 @@ Want to become a full-time Freelancer 💸 and an Open Source Contributor ❤️
   <a align="left" href="https://github.com/heros789-sergio/proyecto-ti1-php-mysql" title="System Attendance PHP-Mysql-Js"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=heros789-sergio&repo=proyecto-ti1-php-mysql&theme=github_dark"></a>
   <a align="right" href="https://github.com/i-am-sergio/mern-stack-crud" title="Project with Stack MERN"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=i-am-sergio&repo=mern-stack-crud&theme=github_dark"></a>
 </p>
+-->
 
 <br><br><br><br><br><br>
 
