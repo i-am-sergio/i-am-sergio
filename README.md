@@ -15,7 +15,7 @@
   <a href="mailto:sergio15.dev@gmail.com" target="_blank" rel="noreferrer"> <img alt="Aras Güngöre's E-mail Address" src="https://img.shields.io/badge/E&#8209;mail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /> </a>
   &nbsp;
   <!--https://arasgungore.github.io/-->
-  <a href="#" target="_blank" rel="noreferrer"> <img alt="Aras Güngöre's Portfolio" src="https://img.shields.io/badge/Portfolio-08203A?style=for-the-badge&logo=About.me&logoColor=white" /> </a>
+  <a href="https://portfolio-i-am-sergio.vercel.app" target="_blank" rel="noreferrer"> <img alt="Aras Güngöre's Portfolio" src="https://img.shields.io/badge/Portfolio-08203A?style=for-the-badge&logo=About.me&logoColor=white" /> </a>
   &nbsp;
   <a href="https://www.linkedin.com/in/sergio-daniel-mogollon-caceres-b36625250/" target="_blank" rel="noreferrer"> <img alt="Aras Güngöre's LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /> </a>
   &nbsp;
@@ -54,6 +54,7 @@ Want to become a full-time Freelancer 💸 and an Open Source Contributor ❤️
 - 🎿 Hobbies other than coding : Reading blogs or about History , Playing football , Thinking about new projects 🤔🤖..
 - 📫 How to reach me: sergio15.dev@gmail.com
 - 📝 [Curriculum](#) (Latest)
+- 📱 Portfolio: https://portfolio-i-am-sergio.vercel.app
 
 <br><br>
 
