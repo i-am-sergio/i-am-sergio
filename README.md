@@ -1,7 +1,12 @@
 <!-- Mas configuraciones y temas en: https://github.com/topics/readme-stats -->
 <div align="center">
  
-# Hi👋, I'm [Sergio](https://github.com/i-am-sergio) - FullStack Developer 👨‍💻 
+# Hi everyone👋, I'm [Sergio](https://github.com/i-am-sergio)
+
+<div align="center">
+
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Fullstack+Developer+💻;Software+Engineer+👨‍💻&width=300&color=80ceff&size=25)](https://git.io/typing-svg)
+</div>
 </div>
 <!-- Para los iconos: ![My Skills](https://skillicons.dev/icons?i=js,java,py,react,nodejs)](https://skillicons.dev) -->
 <p align="center"><strong>More experienced technologies</strong></p>
@@ -36,9 +41,7 @@ https://github.com/tandpfun/skill-icons
 <p>
 A Full Stack Developer 🚀 from Peru. I consider myself as a skilled JS and C++ Developer with good debugging skills.
 <br/>
-Stacks I have worked with : MERN, NextJs , PHP+MySQL, C++&MySQL.
-<br/>  
-Things I have recently experimented with : pocketbase, react-cli , commander , and a lot of other ui-libs...
+Stacks I have worked with : MERN, MEVN, NextJs , PHP+MySQL, C++&MySQL.
 <br/>
 Want to become a full-time Freelancer 💸 and an Open Source Contributor ❤️.
 </p>
@@ -51,72 +54,105 @@ Want to become a full-time Freelancer 💸 and an Open Source Contributor ❤️
 - 👨🏽‍💻 I’m currently learning React-Js and Backend Development with Express-Js
 - 🤔 I’m looking for help for my future MERN projects
 - 💬 Ask me about anything related to JS, Java, and curiously C++.(After googling it 😜😌)
-- 🎿 Hobbies other than coding : Reading blogs or about History , Playing football , Thinking about new projects 🤔🤖..
 - 📫 How to reach me: sergio15.dev@gmail.com
 - 📝 [Curriculum](#) (Latest)
 - 📱 Portfolio: https://portfolio-i-am-sergio.vercel.app
 
 <br><br>
 
+<!--https://simpleicons.org/  PARA LOS ICONOS -->
+<!-- https://shields.io/badges/static-badge -->
 ## 🛠️ Languages and Tools
+
+<h2 align="center">Languages</h2>
+<div align="center">
+
+![C++](https://img.shields.io/badge/c++-2d2f3b?style=for-the-badge&logo=cplusplus&logoColor=6c7ef5)
+![Python](https://img.shields.io/badge/python-2d2f3b?style=for-the-badge&logo=python&logoColor=fdfdfd)
+![Js](https://img.shields.io/badge/javascript-2d2f3b?style=for-the-badge&logo=javascript&logoColor=f8ff3b)
+![Ts](https://img.shields.io/badge/typescript-2d2f3b?style=for-the-badge&logo=typescript&logoColor=3178C6)
+![Java](https://img.shields.io/badge/java-2d2f3b?style=for-the-badge&logo=eclipse&logoColor=fdfdfd)
+![C#](https://img.shields.io/badge/csharp-2d2f3b?style=for-the-badge&logo=csharp&logoColor=50d464)
+![PHP](https://img.shields.io/badge/php-2d2f3b?style=for-the-badge&logo=php)
+
+</div>
 
 <h2 align="center">Frontend</h2>
 <div align="center">
 
-![HTML5](https://img.shields.io/badge/-HTML5-black?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/-CSS3-black?style=flat-square&logo=css3)
-![JavaScript](https://img.shields.io/badge/-JAVASCRIPT-black?style=flat-square&logo=javascript)
-![Tailwind](https://img.shields.io/badge/-TAILWIND-black?style=flat-square&logo=tailwindcss)
-![Bootstrap](https://img.shields.io/badge/-BOOTSTRAP-black?style=flat-square&logo=bootstrap)
-<!--![SASS](https://img.shields.io/badge/-SASS-black?style=flat-square&logo=SASS)-->
-![React](https://img.shields.io/badge/-REACT-black?style=flat-square&logo=react)
-![Redux](https://img.shields.io/badge/-REDUX-black?style=flat-square&logo=Redux)
+![HTML](https://img.shields.io/badge/html5-272936?style=for-the-badge&logo=html5&logoColor=ffa51f)
+![CSS](https://img.shields.io/badge/css3-272936?style=for-the-badge&logo=css3&logoColor=3f8be8)
+![REACT](https://img.shields.io/badge/react-272936?style=for-the-badge&logo=react&logoColor=61DAFB)
+![VUE](https://img.shields.io/badge/vue-272936?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D)
+![tailwindcss](https://img.shields.io/badge/tailwindcss-272936?style=for-the-badge&logo=tailwindcss&logoColor=06B6D4)
+![sass](https://img.shields.io/badge/sass-272936?style=for-the-badge&logo=sass&logoColor=#CC6699)
+![redux](https://img.shields.io/badge/redux-272936?style=for-the-badge&logo=redux&logoColor=764ABC)
 </div>
 
 <h2 align="center">Backend</h2>
 <div align="center">
 
-![Nodejs](https://img.shields.io/badge/-NODEJS-black?style=flat-square&logo=Node.js)
-![Expressjs](https://img.shields.io/badge/-EXPRESSJS-black?style=flat-square&logo=Express)
-![Next.js](https://img.shields.io/badge/-NEXTJS-black?style=flat-square&logo=Next.js)
-![TypeScript](https://img.shields.io/badge/-TYPESCRIPT-black?style=flat-square&logo=typescript)
-![.NET](https://img.shields.io/badge/-.NET-black?style=flat-square&logo=dotnet)
-![C#](https://img.shields.io/badge/-CSHARP-black?style=flat-square&logo=csharp)
-![PHP](https://img.shields.io/badge/-PHP-black?style=flat-square&logo=php)
-![Java](https://img.shields.io/badge/-JAVA-black?style=flat-square&logo=openjdk)
-![Spring](https://img.shields.io/badge/-SPRING-black?style=flat-square&logo=spring)
-![Hibernate](https://img.shields.io/badge/-HIBERNATE-black?style=flat-square&logo=hibernate)
+![spring boot](https://img.shields.io/badge/springboot-2d2f3b?style=for-the-badge&logo=spring&logoColor=6DB33F)
+![nodejs](https://img.shields.io/badge/node%20js-2d2f3b?style=for-the-badge&logo=nodedotjs&logoColor=339933)
+![nestjs](https://img.shields.io/badge/nestjs-2d2f3b?style=for-the-badge&logo=nestjs&logoColor=E0234E)
+![FastApi](https://img.shields.io/badge/expressjs-2d2f3b?style=for-the-badge&logo=express&logoColor=f5f5f5)
+![dotnet](https://img.shields.io/badge/DOTNET-2d2f3b?style=for-the-badge&logo=.net&logoColor=4287f5)
+![FastApi](https://img.shields.io/badge/fastapi-2d2f3b?style=for-the-badge&logo=fastapi&logoColor=009688)
+
+![Hibernate](https://img.shields.io/badge/hibernate-2d2f3b?style=for-the-badge&logo=hibernate&logoColor=59666C)
+![Prisma](https://img.shields.io/badge/prisma-2d2f3b?style=for-the-badge&logo=prisma&logoColor=5c7194)
+<!--![Expressjs](https://img.shields.io/badge/-EXPRESSJS-black?style=flat-square&logo=Express)-->
+<!--![Next.js](https://img.shields.io/badge/-NEXTJS-black?style=flat-square&logo=Next.js)-->
 </div>
 
 <h2 align="center">Databases</h2>
 <div align="center">
 
-![MySql](https://img.shields.io/badge/-MYSQL-black?style=flat-square&logo=mysql)
-![SqlServer](https://img.shields.io/badge/-SQLSERVER-black?style=flat-square&logo=microsoftsqlserver)
-![PostreSql](https://img.shields.io/badge/-POSTGRESQL-black?style=flat-square&logo=postgresql)
-![MongoDB](https://img.shields.io/badge/-MONGODB-black?style=flat-square&logo=mongodb)
-![Firebase](https://img.shields.io/badge/-FIREBASE-black?style=flat-square&logo=firebase)
+![mysql](https://img.shields.io/badge/mysql-2d2f3b?style=for-the-badge&logo=mysql&logoColor=649dfa)
+![postgresql](https://img.shields.io/badge/postgresql-2d2f3b?style=for-the-badge&logo=postgresql&logoColor=4169E1)
+![mongodb](https://img.shields.io/badge/mongodb-2d2f3b?style=for-the-badge&logo=mongodb&logoColor=47A248)
+<!--![SqlServer](https://img.shields.io/badge/-SQLSERVER-black?style=flat-square&logo=microsoftsqlserver)-->
+<!--![Firebase](https://img.shields.io/badge/-FIREBASE-black?style=flat-square&logo=firebase)-->
 </div>
 
-<h2 align="center">Deployment</h2>
+<h2 align="center">Mobile Development</h2>
 <div align="center">
 
-![Git](https://img.shields.io/badge/-GIT-black?style=flat-square&logo=git)
-![GitHub](https://img.shields.io/badge/-GITHUB-black?style=flat-square&logo=github)
-![Docker](https://img.shields.io/badge/-DOCKER-black?style=flat-square&logo=docker)
-![Railway](https://img.shields.io/badge/-RAILWAY-black?style=flat-square&logo=railway)
-![Render](https://img.shields.io/badge/-RENDER-black?style=flat-square&logo=render)
-![GithubPages](https://img.shields.io/badge/-GITHUBPAGES-black?style=flat-square&logo=githubpages)
-![Vercel](https://img.shields.io/badge/-VERCEL-black?style=flat-square&logo=vercel)
+![flutter](https://img.shields.io/badge/flutter-2d2f3b?style=for-the-badge&logo=flutter&logoColor=527dff)
+![react native](https://img.shields.io/badge/react%20native-2d2f3b?style=for-the-badge&logo=react&logoColor=b5fffe)
+![expo](https://img.shields.io/badge/expo-2d2f3b?style=for-the-badge&logo=expo&logoColor=fdfdfd)
 </div>
 
-<h2 align="center">Desktop Environment</h2>
+<h2 align="center">Desktop Development</h2>
 <div align="center">
 
-![Windows](https://img.shields.io/badge/-WINDOWS-black?style=flat-square&logo=windows)
-![Ubuntu](https://img.shields.io/badge/-UBUNTU-black?style=flat-square&logo=ubuntu)
-![Debian](https://img.shields.io/badge/-DEBIAN-black?style=flat-square&logo=debian)
-![Fedora](https://img.shields.io/badge/-FEDORA-black?style=flat-square&logo=fedora)
+![electron](https://img.shields.io/badge/electron-2d2f3b?style=for-the-badge&logo=electron)
+![qt](https://img.shields.io/badge/qt-2d2f3b?style=for-the-badge&logo=qt&logoColor=41CD52)
+![qt](https://img.shields.io/badge/cmake-2d2f3b?style=for-the-badge&logo=cmake&logoColor=f5f5f5)
+</div>
+
+<h2 align="center">Deployment & Tools</h2>
+<div align="center">
+
+![Git](https://img.shields.io/badge/git-2d2f3b?style=for-the-badge&logo=git&logoColor=F05032)
+![GitHub](https://img.shields.io/badge/git-2d2f3b?style=for-the-badge&logo=github&logoColor=fdfdfd)
+![Docker](https://img.shields.io/badge/docker-2d2f3b?style=for-the-badge&logo=docker&logoColor=2496ED)
+![Render](https://img.shields.io/badge/render-2d2f3b?style=for-the-badge&logo=render&logoColor=46E3B7)
+![Vercel](https://img.shields.io/badge/vercel-2d2f3b?style=for-the-badge&logo=figma&logoColor=F24E1E)
+
+![Figma](https://img.shields.io/badge/figma-2d2f3b?style=for-the-badge&logo=figma)
+![Trello](https://img.shields.io/badge/trello-2d2f3b?style=for-the-badge&logo=trello)
+<!--![Railway](https://img.shields.io/badge/-RAILWAY-black?style=flat-square&logo=railway)-->
+<!--![GithubPages](https://img.shields.io/badge/-GITHUBPAGES-black?style=flat-square&logo=githubpages)-->
+</div>
+
+<h2 align="center">Develop Environment</h2>
+<div align="center">
+
+![Windows](https://img.shields.io/badge/windows-2d2f3b?style=for-the-badge&logo=windows&logoColor=0078D4)
+![Debian](https://img.shields.io/badge/debian-2d2f3b?style=for-the-badge&logo=debian&logoColor=ff4066)
+![Fedora](https://img.shields.io/badge/fedora-2d2f3b?style=for-the-badge&logo=fedora&logoColor=51A2DA)
+![Ubuntu](https://img.shields.io/badge/ubuntu-2d2f3b?style=for-the-badge&logo=ubuntu&logoColor=E95420)
 </div>
 
 <br>
@@ -159,6 +195,6 @@ Want to become a full-time Freelancer 💸 and an Open Source Contributor ❤️
 <!--📈ACTIVITYGRAPH / configuraciones y temas del grafico aqui: https://github.com/i-am-sergio/github-readme-activity-graph#customization -->
 
 <h4 align="center"><a href="https://github.com/i-am-sergio?tab=repositories" title="Show More Repositories">🔎 Show More Repositories 🔍</a></h4>
-<p align = "center">⭐ From <a href="https://github.com/i-am-sergio/">i-am-sergio</a></p>
+<p align = "center">⭐ From <a href="https://portfolio-i-am-sergio.vercel.app">i-am-sergio</a></p>
 <div align="center">
 
