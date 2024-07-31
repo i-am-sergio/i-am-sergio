@@ -12,7 +12,7 @@
 <p align="center"><strong>More experienced technologies</strong></p>
 <div align="center">
  
-![My Skills](https://skillicons.dev/icons?i=nodejs,cpp,cs,java,py,react,mysql,mongodb)
+![My Skills](https://skillicons.dev/icons?i=java,cs,cpp,nodejs,py,react,mysql,mongodb)
 </div>
 
 ## 📇 Social & Contact
@@ -93,10 +93,10 @@ Want to become a full-time Freelancer 💸 and an Open Source Contributor ❤️
 <div align="center">
 
 ![spring boot](https://img.shields.io/badge/springboot-2d2f3b?style=for-the-badge&logo=spring&logoColor=6DB33F)
+![dotnet](https://img.shields.io/badge/DOTNET-2d2f3b?style=for-the-badge&logo=.net&logoColor=4287f5)
 ![nodejs](https://img.shields.io/badge/node%20js-2d2f3b?style=for-the-badge&logo=nodedotjs&logoColor=339933)
 ![nestjs](https://img.shields.io/badge/nestjs-2d2f3b?style=for-the-badge&logo=nestjs&logoColor=E0234E)
-![FastApi](https://img.shields.io/badge/expressjs-2d2f3b?style=for-the-badge&logo=express&logoColor=f5f5f5)
-![dotnet](https://img.shields.io/badge/DOTNET-2d2f3b?style=for-the-badge&logo=.net&logoColor=4287f5)
+![ExpressJS](https://img.shields.io/badge/expressjs-2d2f3b?style=for-the-badge&logo=express&logoColor=f5f5f5)
 ![FastApi](https://img.shields.io/badge/fastapi-2d2f3b?style=for-the-badge&logo=fastapi&logoColor=009688)
 
 ![Hibernate](https://img.shields.io/badge/hibernate-2d2f3b?style=for-the-badge&logo=hibernate&logoColor=59666C)
@@ -156,13 +156,47 @@ Want to become a full-time Freelancer 💸 and an Open Source Contributor ❤️
 </div>
 
 <br>
+
+
+<h2 align="center">Repositories</h2>
+
+<p align="center">
+  <a href="https://github.com/i-am-sergio/universe_social_network_web_app" title="Universe Social Network Web App">
+    <img height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=i-am-sergio&repo=universe_social_network_web_app&theme=midnight-purple" style="margin: 10px;">
+  </a>
+  <a href="https://github.com/ShinjiMC/Enrollment-Management-System-UNSA" title="Enrollment Management System UNSA">
+    <img height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=ShinjiMC&repo=Enrollment-Management-System-UNSA&theme=midnight-purple" style="margin: 10px;">
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/i-am-sergio/ia_hackathon_project" title="Integrated WebApp flowers recognition with CNN">
+    <img height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=i-am-sergio&repo=ia_hackathon_project&theme=midnight-purple" style="margin: 10px;">
+  </a>
+  <a href="https://github.com/i-am-sergio/exercise-monitoring-system-opencv" title="Exercise Monitoring System with Pose Estimation">
+    <img height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=i-am-sergio&repo=exercise-monitoring-system-opencv&theme=midnight-purple" style="margin: 10px;">
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/i-am-sergio/augmented-reality-modeled-object-visualizer" title="augmented-reality-modeled-object-visualizer">
+    <img height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=i-am-sergio&repo=augmented-reality-modeled-object-visualizer&theme=midnight-purple" style="margin: 10px;">
+  </a>
+  <a href="https://github.com/i-am-sergio/things" title="Rollin Microservices App">
+    <img height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=i-am-sergio&repo=things&theme=midnight-purple" style="margin: 10px;">
+  </a>
+</p>
+
+
+<h2 align="center">Stats</h2>
+
 <div align="center">
 
 <a href="https://github.com/anuraghazra/github-readme-stats" title="Go to Source">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=i-am-sergio&show_icons=true&theme=github_dark">
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=i-am-sergio&show_icons=true&theme=midnight-purple">
 </a>
 <a href="https://github.com/trinib/AdGuard-WireGuard-Unbound-Cloudflare">
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=i-am-sergio&layout=compact&theme=github_dark">
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=i-am-sergio&layout=compact&theme=midnight-purple">
 </a>
 </div>
 
@@ -171,26 +205,6 @@ Want to become a full-time Freelancer 💸 and an Open Source Contributor ❤️
   <img width="50%" height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=heros789-sergio&layout=compact&theme=midnight-purple" />
 </a>
 -->
-
-
-<!--
-<h2 align="center">Repositories</h2>
-
-<p width="100%" align="center">
-  <a align="left" href="https://github.com/heros789-sergio/proyecto-dbp-java-mysql" title="Bank System Java-Mysql"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=heros789-sergio&repo=proyecto-dbp-java-mysql&theme=github_dark"></a>
-  <a align="right" href="https://github.com/heros789-sergio/SistemaBebidas" title="Warehouse system"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=heros789-sergio&repo=SistemaBebidas&theme=github_dark"></a>
-</p>
-
-<br><br><br><br>
-
-<p width="100%" align="center">
-  <a align="left" href="https://github.com/heros789-sergio/proyecto-ti1-php-mysql" title="System Attendance PHP-Mysql-Js"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=heros789-sergio&repo=proyecto-ti1-php-mysql&theme=github_dark"></a>
-  <a align="right" href="https://github.com/i-am-sergio/mern-stack-crud" title="Project with Stack MERN"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=i-am-sergio&repo=mern-stack-crud&theme=github_dark"></a>
-</p>
-
-<br><br><br><br>
--->
-<br><br>
 
 <!--📈ACTIVITYGRAPH / configuraciones y temas del grafico aqui: https://github.com/i-am-sergio/github-readme-activity-graph#customization -->
 
