@@ -39,7 +39,7 @@ https://github.com/tandpfun/skill-icons
 -->
 <br>
 <p>
-A Full Stack Developer 🚀 from Peru. I consider myself as a skilled JS and C++ Developer with good debugging skills.
+A Full Stack Developer 🚀 from Peru. I consider myself as a skilled Java .NET and C++ Developer with good debugging skills.
 <br/>
 Stacks I have worked with : MERN, MEVN, NextJs , PHP+MySQL, C++&MySQL.
 <br/>
@@ -51,9 +51,9 @@ Want to become a full-time Freelancer 💸 and an Open Source Contributor ❤️
   
 ### ✨ Quick Facts
 
-- 👨🏽‍💻 I’m currently learning React-Js and Backend Development with Express-Js
-- 🤔 I’m looking for help for my future MERN projects
-- 💬 Ask me about anything related to JS, Java, and curiously C++.(After googling it 😜😌)
+- 👨🏽‍💻 I'm currently developing systems using domain drive design
+- 🤔 Lately I'm learning about event drive architecture
+- 💬 Ask me about anything related to Java C# or C++. Also JS
 - 📫 How to reach me: sergio15.dev@gmail.com
 - 📝 [Curriculum](#) (Latest)
 - 📱 Portfolio: https://portfolio-i-am-sergio.vercel.app
