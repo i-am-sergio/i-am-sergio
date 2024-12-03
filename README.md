@@ -43,20 +43,19 @@ A Full Stack Developer 🚀 from Peru. I consider myself as a skilled Java .NET 
 <br/>
 Stacks I have worked with : MERN, MEVN, NextJs , PHP+MySQL, C++&MySQL.
 <br/>
-Want to become a full-time Freelancer 💸 and an Open Source Contributor ❤️.
+I'm a Creative Programmer and an Open Source Contributor ❤️.
 </p>
 
 
 <img align="right" src="https://raw.githubusercontent.com/trinib/trinib/main/.images/terminal.gif" width="350">
   
 ### ✨ Quick Facts
-
-- 👨🏽‍💻 I'm currently developing systems using domain drive design
+<!-- - 💬 Ask me about anything related to Java C# or C++. Also JS -->
+- 👨🏽‍💻 I'm currently developing systems using Domain Drive Design with Microservices Architecture
 - 🤔 Lately I'm learning about event drive architecture
-- 💬 Ask me about anything related to Java C# or C++. Also JS
-- 📫 How to reach me: sergio15.dev@gmail.com
+- 📫 How to reach me: [sergio15.dev@gmail.com](sergio15.dev@gmail.com)
 - 📝 [Curriculum](#) (Latest)
-- 📱 Portfolio: https://portfolio-i-am-sergio.vercel.app
+- 📱 Portfolio: [https://portfolio-i-am-sergio.vercel.app](https://portfolio-i-am-sergio.vercel.app)
 
 <br><br>
 
@@ -158,32 +157,42 @@ Want to become a full-time Freelancer 💸 and an Open Source Contributor ❤️
 <br>
 
 
+<!-- https://github.com/anuraghazra/github-readme-stats?tab=readme-ov-file#themes -->
 <h2 align="center">Repositories</h2>
 
 <p align="center">
   <a href="https://github.com/i-am-sergio/universe_social_network_web_app" title="Universe Social Network Web App">
-    <img height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=i-am-sergio&repo=universe_social_network_web_app&theme=midnight-purple" style="margin: 10px;">
+    <img height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=i-am-sergio&repo=universe_social_network_web_app&theme=react" style="margin: 10px;">
   </a>
   <a href="https://github.com/ShinjiMC/Enrollment-Management-System-UNSA" title="Enrollment Management System UNSA">
-    <img height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=ShinjiMC&repo=Enrollment-Management-System-UNSA&theme=midnight-purple" style="margin: 10px;">
+    <img height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=ShinjiMC&repo=Enrollment-Management-System-UNSA&theme=react" style="margin: 10px;">
   </a>
 </p>
 
 <p align="center">
   <a href="https://github.com/i-am-sergio/ia_hackathon_project" title="Integrated WebApp flowers recognition with CNN">
-    <img height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=i-am-sergio&repo=ia_hackathon_project&theme=midnight-purple" style="margin: 10px;">
+    <img height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=i-am-sergio&repo=ia_hackathon_project&theme=react" style="margin: 10px;">
   </a>
   <a href="https://github.com/i-am-sergio/exercise-monitoring-system-opencv" title="Exercise Monitoring System with Pose Estimation">
-    <img height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=i-am-sergio&repo=exercise-monitoring-system-opencv&theme=midnight-purple" style="margin: 10px;">
+    <img height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=i-am-sergio&repo=exercise-monitoring-system-opencv&theme=react" style="margin: 10px;">
   </a>
 </p>
 
 <p align="center">
   <a href="https://github.com/i-am-sergio/augmented-reality-modeled-object-visualizer" title="augmented-reality-modeled-object-visualizer">
-    <img height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=i-am-sergio&repo=augmented-reality-modeled-object-visualizer&theme=midnight-purple" style="margin: 10px;">
+    <img height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=i-am-sergio&repo=augmented-reality-modeled-object-visualizer&theme=react" style="margin: 10px;">
   </a>
   <a href="https://github.com/i-am-sergio/things" title="Rollin Microservices App">
-    <img height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=i-am-sergio&repo=things&theme=midnight-purple" style="margin: 10px;">
+    <img height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=i-am-sergio&repo=things&theme=react" style="margin: 10px;">
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/i-am-sergio/ai-expert-system-vocational-guidance" title="ai-expert-system-vocational-guidance">
+    <img height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=i-am-sergio&repo=ai-expert-system-vocational-guidance&theme=react" style="margin: 10px;">
+  </a>
+  <a href="https://github.com/i-am-sergio/react-web-epcc" title="Computer Week 2023 Webpage">
+    <img height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=i-am-sergio&repo=react-web-epcc&theme=react" style="margin: 10px;">
   </a>
 </p>
 
@@ -193,10 +202,10 @@ Want to become a full-time Freelancer 💸 and an Open Source Contributor ❤️
 <div align="center">
 
 <a href="https://github.com/anuraghazra/github-readme-stats" title="Go to Source">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=i-am-sergio&show_icons=true&theme=midnight-purple">
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=i-am-sergio&show_icons=true&theme=react">
 </a>
 <a href="https://github.com/trinib/AdGuard-WireGuard-Unbound-Cloudflare">
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=i-am-sergio&layout=compact&theme=midnight-purple">
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=i-am-sergio&layout=compact&theme=react">
 </a>
 </div>
 
